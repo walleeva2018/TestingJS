@@ -10,5 +10,7 @@
 <li> Download Node js from nodejs.org </li>
 <li> Open a Js file </li>
 <li> Open terminal being on that file folder </li>
-<li> Run ```node file_name``` </li> 
+<li> Run ```js 
+  node file_name
+  ``` </li> 
 </ol>
